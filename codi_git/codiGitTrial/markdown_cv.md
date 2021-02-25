@@ -1,14 +1,13 @@
 mohamad bahir khoder ,
 
 
-
-                                     I'm Bachir
-                                    a programmer   
-
+I'm Bachir
+a programmer   
 
 
 
-pic will be here
+
+![presistent](https://1.bp.blogspot.com/-kec3uMoBU6M/WcnDJmFvABI/AAAAAAAAAG8/sMEobmkuuzghciEa8dPI0qGNM5QyDJZpgCLcBGAs/s1600/Tortoise-and-the-Hare.jpg)
 
 
 
@@ -19,7 +18,7 @@ Education:
 >high school of tripoli azhar
 >lebanese university
 
-                                  ...  
+                                   
 
 Experiences:
 
@@ -30,13 +29,13 @@ rainmakers                        2019
 final project of university(3rd)  2020
 
 
-                                   ...
+                                   
 
 current activity:
 
 web development training with codi
 
-                                   ... 
+                                    
                              
 Skills:
 
@@ -50,7 +49,7 @@ js:✔                   french:✔
   
 
 
-                                     ...
+                                    
  
 hobbies:
 
@@ -58,8 +57,7 @@ play chess , watch anime
 
 play football , write novels
 
-                                     ...   
+                                        
 
-contact me: mohamadbachirkhoder@gmail.com
                    
-                                     ... 
+                                     
