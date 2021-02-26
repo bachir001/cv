@@ -1,4 +1,4 @@
-mohamad bahir khoder ,
+# mohamad bahir khoder ,
 
 
 I'm Bachir
@@ -11,7 +11,7 @@ a programmer
 
 
 
-Education:
+# Education:
 
 >school of rawdet al salam
 >school of lyce generale
@@ -20,7 +20,7 @@ Education:
 
                                    
 
-Experiences:
+# Experiences:
 
 Experience name                   date
 
@@ -31,13 +31,13 @@ final project of university(3rd)  2020
 
                                    
 
-current activity:
+# current activity:
 
 web development training with codi
 
                                     
                              
-Skills:
+# Skills:
 
 html:✔✔✔✔          it:✔✔
 
@@ -51,7 +51,7 @@ js:✔                   french:✔
 
                                     
  
-hobbies:
+# hobbies:
 
 play chess , watch anime
 
